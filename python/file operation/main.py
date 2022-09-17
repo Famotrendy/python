@@ -1,0 +1,1 @@
+smart_kids = ["glori","chidera","shade", "odun", "michael"]
